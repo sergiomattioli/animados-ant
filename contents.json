@@ -4,8 +4,631 @@
    "sticker_packs":[
       {
          "identifier":"love1",
-         "name":"Love 1",
-         "publisher":"Astro Mobile",
+         "name":"Pack Love 1",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"ok",
+         "name":"Pack Ok",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"memes1",
+         "name":"Pack Memes 1",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"pikachu",
+         "name":"Pack Pikachu",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"pokemon",
+         "name":"Pack Pokemon",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"rickandmorty1",
+         "name":"Pack Rick and Morty",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "publisher_website":"",
          "publisher_email":"ant.space.soft@gmail.com",
@@ -174,21 +797,257 @@
                "emojis":[
 
                ]
-            },
+            }
+         ]
+      },
+      {
+         "identifier":"patricio",
+         "name":"Pack Patricio",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"sponge, bob, cartoon",
+         "stickers":[
             {
-               "image_file":"28.webp",
+               "image_file":"1.webp",
                "emojis":[
 
                ]
             },
             {
-               "image_file":"29.webp",
+               "image_file":"2.webp",
                "emojis":[
 
                ]
             },
             {
-               "image_file":"30.webp",
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"simpsons1",
+         "name":"Pack The Simpsons",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"homer, bart, lisa, marge",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
                "emojis":[
 
                ]
